@@ -1,0 +1,3 @@
+websockets
+bitmex-ws
+binance-futures-connector
